@@ -1,0 +1,7 @@
+POST http://aldmal.zapto.org/api/tasks
+Content-Type: application/json
+
+{
+    "title": "123",
+    "description": "12345"
+}
