@@ -1,7 +1,2 @@
-POST http://aldmal.zapto.org/api/tasks
-Content-Type: application/json
+GET http://localhost:9000/
 
-{
-    "title": "123",
-    "description": "12345"
-}
